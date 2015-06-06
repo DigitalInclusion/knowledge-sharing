@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This quickstart will get you going with a Spring MVC Hibernate application that uses a Postgres database service, deployed to Heroku.
 
 {.note}
@@ -245,6 +244,3 @@ Congratulations! Your web app should now be up and running on Heroku. Open it in
 
     :::term  
     $ heroku open
-=======
-# knowledge-sharing
->>>>>>> 641f2777ef7cf3d9132859a8cfa9fd343dc06c72
